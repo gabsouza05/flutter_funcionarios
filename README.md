@@ -1,30 +1,45 @@
-# Sistema de Funcionários
+# 👩‍💻 Flutter Funcionários
 
-Aplicação desenvolvida em Flutter que exibe uma lista de funcionários carregados via JSON local. O app permite visualizar dados como nome, cargo, salário, data de contratação e avatar, além de navegar entre os funcionários.
+Sistema desenvolvido em Flutter para gerenciamento de funcionários.
 
-## Tecnologias
+---
 
-Flutter
-Dart
-JSON (assets locais)
+## 🚀 Sobre o projeto
 
-## Passo a passo para testar este código
+Este projeto tem como objetivo facilitar o controle de funcionários, permitindo cadastro, visualização e organização das informações de forma simples e eficiente.
 
-1. Clone este repositório
-2. Abra no VS Code
-3. Instale as dependências:
-"flutter pub get"
+---
 
-4. Execute o projeto:
-"flutter run"
+## 🛠️ Tecnologias utilizadas
 
-## Pictures
+- Flutter
+- Dart
+- Material Design
 
-![Screen](assets/info/Home.png)
+---
 
-Home
+## 📱 Funcionalidades
 
-![Screen](assets/info/Detalhes.png)
+- 📌 Cadastro de funcionários  
+- 📋 Listagem de funcionários  
+- 🔍 Visualização de detalhes  
+- ✏️ Edição de informações  
+
+---
+
+## 🎨 Interface
+
+Interface moderna, responsiva e intuitiva, pensada para facilitar a usabilidade.
+
+---
+
+## ▶️ Como executar
+
+```bash
+git clone https://github.com/gabsouza05/flutter_funcionarios.git
+cd flutter_funcionarios
+flutter pub get
+flutter run
 
 Detalhes
 
