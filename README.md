@@ -23,7 +23,6 @@ Este projeto tem como objetivo facilitar o controle de funcionários, permitindo
 - 📌 Cadastro de funcionários  
 - 📋 Listagem de funcionários  
 - 🔍 Visualização de detalhes  
-- ✏️ Edição de informações  
 
 ---
 
