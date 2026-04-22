@@ -41,8 +41,14 @@ cd flutter_funcionarios
 flutter pub get
 flutter run
 
-Detalhes
+```
 
-![Screen](assets/info/navegacao.png)
+---
 
-Navegação
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/info/home.png" width="250"/>
+  <img src="assets/info/navegacao.png" width="250"/>
+  <img src="assets/info/detalhes.png" width="250"/>
+</p>
