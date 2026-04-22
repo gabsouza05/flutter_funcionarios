@@ -43,6 +43,6 @@ flutter run
 
 Detalhes
 
-![Screen](assets/info/Navegacao.png)
+![Screen](assets/info/navegacao.png)
 
 Navegação
